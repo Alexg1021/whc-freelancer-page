@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/scss/bootstrap";
+
+//Global Styles
+
+main{
+  margin-top:56px;
+}
+
+.separator{
+  border-bottom: 4px solid;
+  margin: 20px auto;
+  width: 200px;
+}
